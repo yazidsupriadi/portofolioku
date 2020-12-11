@@ -1,0 +1,13 @@
+
+nav{
+	background-color: blue;
+}
+
+nav img{
+	max-height: 50px;
+}
+
+#header{
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
